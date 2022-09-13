@@ -5,7 +5,7 @@ namespace App\Database\Seeds;
 use CodeIgniter\Database\Seeder;
 use CodeIgniter\I18n\Time;
 
-class Makasiswa extends Seeder
+class Mahasiswa extends Seeder
 {
     public function run()
     {
